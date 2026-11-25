@@ -6,6 +6,10 @@ Live at https://sotsukke.github.io/crystal-fingerprints/
 
 The site has five pages in its sidebar: the Playground (`#/`), the Density fingerprints course (`#/course`), the AI journal (`#/journal`), the Expected fingerprints course (`#/expected`) and the References (`#/references`, read from `refs.bib`).
 
+## Open it without installing anything
+
+`site/` is the built page. Open `site/index.html` in a browser. This copy is bundled into one plain script, so it works straight from the folder, with no server.
+
 ## Run it
 
 The applet is in `web/`, a Vite + React page. It uses pnpm, pinned in `web/package.json`. From `web/`:
