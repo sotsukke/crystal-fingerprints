@@ -4,6 +4,8 @@ Web applet for my INFO-F420 Computational Geometry project (ULB), Jules De Rop.
 
 Live at https://sotsukke.github.io/crystal-fingerprints/
 
+The project is based on Herbert Edelsbrunner, Teresa Heiss, Vitaliy Kurlin, Philip Smith and Mathijs Wintraecken. The Density Fingerprint of a Periodic Point Set. In *37th International Symposium on Computational Geometry (SoCG 2021)*, LIPIcs 189, pages 32:1–32:16, 2021. [doi:10.4230/LIPIcs.SoCG.2021.32](https://doi.org/10.4230/LIPIcs.SoCG.2021.32). The full bibliography is on the References page.
+
 The site has five pages in its sidebar: the Playground (`#/`), the Density fingerprints course (`#/course`), the AI journal (`#/journal`), the Expected fingerprints course (`#/expected`) and the References (`#/references`, read from `refs.bib`).
 
 ## Open it without installing anything
