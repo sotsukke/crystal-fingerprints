@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216.28" height="183.21" viewBox="-89.29 -93.92 216.28 183.21" font-family="'Geist Mono', ui-monospace, monospace">
+<defs>
+<clipPath id="23zone3ofp-c"><rect x="-89.29" y="-93.92" width="216.28" height="183.21"/></clipPath>
+</defs>
+<g clip-path="url(#23zone3ofp-c)">
+<path d="M33.07 -33.07L-33.07 -33.07L-33.07 33.07L33.07 33.07Z" fill="#e3e4f7" fill-rule="evenodd"/>
+<path d="M66.14 0L0 -66.14L-66.14 0L0 66.14ZM33.07 -33.07L-33.07 -33.07L-33.07 33.07L33.07 33.07Z" fill="#c4c6f5" fill-rule="evenodd"/>
+<path d="M66.14 -33.07L33.07 -33.07L33.07 -66.14L-33.07 -66.14L-33.07 -33.07L-66.14 -33.07L-66.14 33.07L-33.07 33.07L-33.07 66.14L33.07 66.14L33.07 33.07L66.14 33.07ZM66.14 0L0 -66.14L-66.14 0L0 66.14Z" fill="#898ff9" fill-rule="evenodd"/>
+<path d="M-89.29 -23.15L23.15 89.29" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-33.07 -93.92L-33.07 89.29" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M27.78 -93.92L-89.29 23.15" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-89.29 33.07L126.99 33.07" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M126.99 -33.07L-89.29 -33.07" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-23.15 89.29L126.99 -60.85" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M33.07 89.29L33.07 -93.92" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M126.99 60.85L-27.78 -93.92" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M121.6 -25.13A63.4 63.4 0 1 0 -5.19 -25.13A63.4 63.4 0 1 0 121.6 -25.13Z" fill="none" stroke="#1f2bff" stroke-width="0.8" stroke-dasharray="2.66 1.99"/>
+<path d="M0 0L58.2 -25.13" stroke="#1f2bff" stroke-width="1.33" stroke-linecap="round"/>
+<path d="M34.67 -14.28A1.6 1.6 0 1 0 31.47 -14.28A1.6 1.6 0 1 0 34.67 -14.28Z" fill="#1f2bff"/>
+<path d="M47.79 -19.95A1.6 1.6 0 1 0 44.59 -19.95A1.6 1.6 0 1 0 47.79 -19.95Z" fill="#1f2bff"/>
+<path d="M-64.15 66.14A1.99 1.99 0 1 0 -68.13 66.14A1.99 1.99 0 1 0 -64.15 66.14Z" fill="#0b0f3a"/>
+<path d="M-64.15 0A1.99 1.99 0 1 0 -68.13 0A1.99 1.99 0 1 0 -64.15 0Z" fill="#0b0f3a"/>
+<path d="M-64.15 -66.14A1.99 1.99 0 1 0 -68.13 -66.14A1.99 1.99 0 1 0 -64.15 -66.14Z" fill="#0b0f3a"/>
+<path d="M1.99 66.14A1.99 1.99 0 1 0 -1.99 66.14A1.99 1.99 0 1 0 1.99 66.14Z" fill="#0b0f3a"/>
+<path d="M1.99 -66.14A1.99 1.99 0 1 0 -1.99 -66.14A1.99 1.99 0 1 0 1.99 -66.14Z" fill="#0b0f3a"/>
+<path d="M68.13 66.14A1.99 1.99 0 1 0 64.15 66.14A1.99 1.99 0 1 0 68.13 66.14Z" fill="#0b0f3a"/>
+<path d="M68.13 0A1.99 1.99 0 1 0 64.15 0A1.99 1.99 0 1 0 68.13 0Z" fill="#0b0f3a"/>
+<path d="M68.13 -66.14A1.99 1.99 0 1 0 64.15 -66.14A1.99 1.99 0 1 0 68.13 -66.14Z" fill="#0b0f3a"/>
+<path d="M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<path d="M69.74 0A3.6 3.6 0 1 0 62.54 0A3.6 3.6 0 1 0 69.74 0Z" fill="none" stroke="#1f2bff" stroke-width="1.33"/>
+<path d="M69.74 -66.14A3.6 3.6 0 1 0 62.54 -66.14A3.6 3.6 0 1 0 69.74 -66.14Z" fill="none" stroke="#1f2bff" stroke-width="1.33"/>
+<path d="M54.9 -28.43L61.5 -21.83M54.9 -21.83L61.5 -28.43" stroke="#1f2bff" stroke-width="0.93" stroke-linecap="round"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-8" y="13">p</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="start"><tspan x="67.2" y="-21.13">y</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-14.55" y="-11.87">1</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-44.98" y="0.03">2</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-23.81" y="-51.56">3</tspan></text>
+</g>
+
+</svg>

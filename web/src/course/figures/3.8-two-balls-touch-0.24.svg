@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="583.4" height="162.1" viewBox="-32.7 -132.7 583.4 162.1" font-family="'Geist Mono', ui-monospace, monospace">
+<path d="M0 0L550.36 0" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<path d="M0 0L0 -131.75" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<path d="M0 0L0 3.76" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="middle"><tspan x="0" y="14.53">0</tspan></text>
+<path d="M107.91 0L107.91 3.76" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="middle"><tspan x="107.91" y="14.53">0.2</tspan></text>
+<path d="M215.83 0L215.83 3.76" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="middle"><tspan x="215.83" y="14.53">0.4</tspan></text>
+<path d="M323.74 0L323.74 3.76" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="middle"><tspan x="323.74" y="14.53">0.6</tspan></text>
+<path d="M431.65 0L431.65 3.76" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="middle"><tspan x="431.65" y="14.53">0.8</tspan></text>
+<path d="M539.57 0L539.57 3.76" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="middle"><tspan x="539.57" y="14.53">1</tspan></text>
+<path d="M0 0L-6.47 0" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="end"><tspan x="-10.02" y="3.61">0</tspan></text>
+<path d="M0 -62.74L-6.47 -62.74" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="end"><tspan x="-10.02" y="-59.13">0.5</tspan></text>
+<path d="M0 -125.48L-6.47 -125.48" fill="none" stroke="#a7aab3" stroke-width="0.53"/>
+<text font-size="10.63" fill="#4b4f68" text-anchor="end"><tspan x="-10.02" y="-121.87">1</tspan></text>
+<text font-size="10.63" fill="#4b4f68" text-anchor="end"><tspan x="546.81" y="25.83">radius t</tspan></text>
+<path d="M0 0L2.7 -0.03L5.4 -0.08L8.09 -0.16L10.79 -0.3L13.49 -0.46L16.19 -0.67L18.88 -0.92L21.58 -1.19L24.28 -1.52L26.98 -1.88L29.68 -2.27L32.37 -2.7L35.07 -3.17L37.77 -3.68L40.47 -4.22L43.17 -4.79L45.86 -5.42L48.56 -6.09L51.26 -6.78L53.96 -7.52L56.65 -8.28L59.35 -9.08L62.05 -9.93L64.75 -10.8L67.45 -11.73L70.14 -12.67L72.84 -13.68L75.54 -14.71L78.24 -15.77L80.93 -16.89L83.63 -18.03L86.33 -19.24L89.03 -20.44L91.73 -21.71L94.42 -23L97.12 -24.33L99.82 -25.7L102.52 -27.1L105.22 -28.56L107.91 -30.03L110.61 -31.57L113.31 -33.13L116.01 -34.72L118.7 -36.36L121.4 -38.02L124.1 -39.74L126.8 -41.46L129.5 -43.2L132.19 -44.81L134.89 -46.35L137.59 -47.85L140.29 -49.3L142.98 -50.74L145.68 -52.14L148.38 -53.53L151.08 -54.89L153.78 -56.24L156.47 -57.57L159.17 -58.89L161.87 -60.23L164.57 -61.52L167.27 -62.84L169.96 -64.13L172.66 -65.41L175.36 -66.69L178.06 -67.96L180.75 -69.24L183.45 -70.51L186.15 -71.77L188.85 -73.03L191.55 -74.28L194.24 -75.53L196.94 -76.77L199.64 -78.01L202.34 -79.24L205.03 -80.47L207.73 -81.7L210.43 -82.93L213.13 -84.16L215.83 -85.21L218.52 -86.1L221.22 -86.78L223.92 -87.15L226.62 -87.27L229.32 -87.23L232.01 -87.02L234.71 -86.67L237.41 -86.09L240.11 -85.15L242.8 -83.95L245.5 -82.52L248.2 -80.9L250.9 -79.05L253.6 -77.06L256.29 -74.85L258.99 -72.5L261.69 -69.97L264.39 -67.3L267.08 -64.46L269.78 -61.47L272.48 -58.57L275.18 -55.68L277.88 -52.73L280.57 -49.63L283.27 -46.42L285.97 -43.22L288.67 -40.33L291.37 -37.76L294.06 -35.31L296.76 -33.01L299.46 -30.78L302.16 -28.65L304.85 -26.63L307.55 -24.68L310.25 -22.84L312.95 -21.07L315.65 -19.4L318.34 -17.78L321.04 -16.25L323.74 -14.79L326.44 -13.4L329.13 -12.07L331.83 -10.8L334.53 -9.6L337.23 -8.47L339.93 -7.38L342.62 -6.37L345.32 -5.42L348.02 -4.52L350.72 -3.68L353.42 -2.9L356.11 -2.17L358.81 -1.49L361.51 -0.88L364.21 -0.3L366.9 -0.03L369.6 0L372.3 0L375 0L377.7 0L380.39 0L383.09 0L385.79 0L388.49 0L391.18 0L393.88 0L396.58 0L399.28 0L401.98 0L404.67 0L407.37 0L410.07 0L412.77 0L415.47 0L418.16 0L420.86 0L423.56 0L426.26 0L428.95 0L431.65 0L434.35 0L437.05 0L439.75 0L442.44 0L445.14 0L447.84 0L450.54 0L453.23 0L455.93 0L458.63 0L461.33 0L464.03 0L466.72 0L469.42 0L472.12 0L474.82 0L477.52 0L480.21 0L482.91 0L485.61 0L488.31 0L491 0L493.7 0L496.4 0L499.1 0L501.8 0L504.49 0L507.19 0L509.89 0L512.59 0L515.28 0L517.98 0L520.68 0L523.38 0L526.08 0L528.77 0L531.47 0L534.17 0L536.87 0L539.57 0" fill="none" stroke="#1f2bff" stroke-width="1.33" stroke-linejoin="round"/>
+<text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="232.01" y="-100.45">ψ<tspan dy="3.19" font-size="70%">1</tspan></tspan></text>
+<path d="M128.52 0L128.52 -43.2" fill="none" stroke="#1f2bff" stroke-width="0.66" stroke-dasharray="1.99 1.99"/>
+<path d="M128.52 0M130.52 0A1.99 1.99 0 1 0 126.53 0A1.99 1.99 0 1 0 130.52 0Z" fill="#1f2bff"/>
+<rect x="60.25" y="-56.85" width="136.55" height="9.88" fill="#f2f2f2"/><text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="128.52" y="-48.3">two balls touch: 0.24</tspan></text>
+<path d="M282.95 0L282.95 -46.42" fill="none" stroke="#1f2bff" stroke-width="0.66" stroke-dasharray="1.99 1.99"/>
+<path d="M282.95 0M284.94 0A1.99 1.99 0 1 0 280.96 0A1.99 1.99 0 1 0 284.94 0Z" fill="#1f2bff"/>
+<rect x="211.48" y="-60.06" width="142.93" height="9.88" fill="#f2f2f2"/><text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="282.95" y="-51.51">three balls meet: 0.52</tspan></text>
+</svg>

@@ -1,0 +1,280 @@
+[
+  {
+    "id": "00-1-1",
+    "file": "00-1-1.svg",
+    "caption": "lab 1’s draw: ψ₀(0.8) = 0.142",
+    "group": "00-1",
+    "section": "00",
+    "layout": "compare",
+    "groupCaption": "each window shows one block"
+  },
+  {
+    "id": "00-1-2",
+    "file": "00-1-2.svg",
+    "caption": "lab 2’s draw: ψ₀(0.8) = 0.328",
+    "group": "00-1",
+    "section": "00",
+    "layout": "compare",
+    "groupCaption": "each window shows one block"
+  },
+  {
+    "id": "01-1",
+    "file": "01-1.svg",
+    "caption": "",
+    "group": "01-1",
+    "section": "01",
+    "layout": "fig"
+  },
+  {
+    "id": "01-2-1",
+    "file": "01-2-1.svg",
+    "caption": "the sites within 0.8 of y, each with its coin",
+    "group": "01-2",
+    "section": "01",
+    "layout": "trace"
+  },
+  {
+    "id": "01-2-2",
+    "file": "01-2-2.svg",
+    "caption": "one draw: two kept, y under two balls",
+    "group": "01-2",
+    "section": "01",
+    "layout": "trace"
+  },
+  {
+    "id": "01-3-1",
+    "file": "01-3-1.svg",
+    "caption": "",
+    "group": "01-3",
+    "section": "01",
+    "layout": "fig"
+  },
+  {
+    "id": "01-3-2",
+    "file": "01-3-2.svg",
+    "caption": "",
+    "group": "01-3",
+    "section": "01",
+    "layout": "fig"
+  },
+  {
+    "id": "01-4-1",
+    "file": "01-4-1.svg",
+    "caption": "the cell spanned by (1, 0) and (0, 1)",
+    "group": "01-4",
+    "section": "01",
+    "layout": "compare"
+  },
+  {
+    "id": "01-4-2",
+    "file": "01-4-2.svg",
+    "caption": "the cell spanned by (1, 1) and (1, −1)",
+    "group": "01-4",
+    "section": "01",
+    "layout": "compare"
+  },
+  {
+    "id": "02-1",
+    "file": "02-1.svg",
+    "caption": "radius 0.8, every site at occupancy 1/2",
+    "group": "02-1",
+    "section": "02",
+    "layout": "fig"
+  },
+  {
+    "id": "02-2",
+    "file": "02-2.svg",
+    "caption": "occupancy p = 1/2",
+    "group": "02-2",
+    "section": "02",
+    "layout": "fig"
+  },
+  {
+    "id": "02-3",
+    "file": "02-3.svg",
+    "caption": "",
+    "group": "02-3",
+    "section": "02",
+    "layout": "fig"
+  },
+  {
+    "id": "02-4-1",
+    "file": "02-4-1.svg",
+    "caption": "most balls of radius 0.9 on one spot: 4",
+    "group": "02-4",
+    "section": "02",
+    "layout": "trace",
+    "groupCaption": "occupancy 1/2, largest radius T = 0.9"
+  },
+  {
+    "id": "02-4-2",
+    "file": "02-4-2.svg",
+    "caption": "ψ₀ to ψ₄ at radius 0.8",
+    "group": "02-4",
+    "section": "02",
+    "layout": "trace",
+    "groupCaption": "occupancy 1/2, largest radius T = 0.9"
+  },
+  {
+    "id": "02-4-3",
+    "file": "02-4-3.svg",
+    "caption": "weights down to row 4",
+    "group": "02-4",
+    "section": "02",
+    "layout": "trace",
+    "groupCaption": "occupancy 1/2, largest radius T = 0.9"
+  },
+  {
+    "id": "02-4-4",
+    "file": "02-4-4.svg",
+    "caption": "E ψ₀ to E ψ₄ at radius 0.8",
+    "group": "02-4",
+    "section": "02",
+    "layout": "trace",
+    "groupCaption": "occupancy 1/2, largest radius T = 0.9"
+  },
+  {
+    "id": "02-5",
+    "file": "02-5.svg",
+    "caption": "",
+    "group": "02-5",
+    "section": "02",
+    "layout": "fig"
+  },
+  {
+    "id": "03-1-1",
+    "file": "03-1-1.svg",
+    "caption": "spot A: exactly one kept with chance 0.146",
+    "group": "03-1",
+    "section": "03",
+    "layout": "compare"
+  },
+  {
+    "id": "03-1-2",
+    "file": "03-1-2.svg",
+    "caption": "spot B: exactly one kept with chance 0.608",
+    "group": "03-1",
+    "section": "03",
+    "layout": "compare"
+  },
+  {
+    "id": "03-2",
+    "file": "03-2.svg",
+    "caption": "",
+    "group": "03-2",
+    "section": "03",
+    "layout": "fig"
+  },
+  {
+    "id": "03-3",
+    "file": "03-3.svg",
+    "caption": "",
+    "group": "03-3",
+    "section": "03",
+    "layout": "fig"
+  },
+  {
+    "id": "04-1",
+    "file": "04-1.svg",
+    "caption": "",
+    "group": "04-1",
+    "section": "04",
+    "layout": "beside"
+  },
+  {
+    "id": "04-2",
+    "file": "04-2.svg",
+    "caption": "",
+    "group": "04-2",
+    "section": "04",
+    "layout": "beside"
+  },
+  {
+    "id": "04-3",
+    "file": "04-3.svg",
+    "caption": "",
+    "group": "04-3",
+    "section": "04",
+    "layout": "beside"
+  },
+  {
+    "id": "04-4",
+    "file": "04-4.svg",
+    "caption": "",
+    "group": "04-4",
+    "section": "04",
+    "layout": "beside"
+  },
+  {
+    "id": "04-5-1",
+    "file": "04-5-1.svg",
+    "caption": "ball of radius 0.4",
+    "group": "04-5",
+    "section": "04",
+    "layout": "compare"
+  },
+  {
+    "id": "04-5-2",
+    "file": "04-5-2.svg",
+    "caption": "ball of radius 0.6",
+    "group": "04-5",
+    "section": "04",
+    "layout": "compare"
+  },
+  {
+    "id": "04-5-3",
+    "file": "04-5-3.svg",
+    "caption": "ball of radius 0.8",
+    "group": "04-5",
+    "section": "04",
+    "layout": "compare"
+  },
+  {
+    "id": "04-6-1",
+    "file": "04-6-1.svg",
+    "caption": "candidates of a",
+    "group": "04-6",
+    "section": "04",
+    "layout": "trace"
+  },
+  {
+    "id": "04-6-2",
+    "file": "04-6-2.svg",
+    "caption": "labelled faces of a",
+    "group": "04-6",
+    "section": "04",
+    "layout": "trace"
+  },
+  {
+    "id": "04-6-3",
+    "file": "04-6-3.svg",
+    "caption": "the chance of each label, k = 2",
+    "group": "04-6",
+    "section": "04",
+    "layout": "trace"
+  },
+  {
+    "id": "04-7-1",
+    "file": "04-7-1.svg",
+    "caption": "a face inside the ball of radius 0.8",
+    "group": "04-7",
+    "section": "04",
+    "layout": "trace"
+  },
+  {
+    "id": "04-7-2",
+    "file": "04-7-2.svg",
+    "caption": "E φ₂(0.8) from a and b",
+    "group": "04-7",
+    "section": "04",
+    "layout": "trace"
+  },
+  {
+    "id": "04-8",
+    "file": "04-8.svg",
+    "caption": "",
+    "group": "04-8",
+    "section": "04",
+    "layout": "fig"
+  }
+]

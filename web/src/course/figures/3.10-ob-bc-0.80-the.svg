@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104.4" height="91.1" viewBox="-13.5 -76.7 104.4 91.1" font-family="'Geist Mono', ui-monospace, monospace">
+<path d="M0 0L66.14 0L46.3 -25.67Z" fill="#dddef3" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66.14 0L76.06 -69.45L46.3 -25.67Z" fill="#dddef3" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M76.06 -69.45L9.92 -69.45L46.3 -25.67Z" fill="#dddef3" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.92 -69.45L0 0L46.3 -25.67Z" fill="#a8acf7" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0 0M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<path d="M66.14 0M68.13 0A1.99 1.99 0 1 0 64.15 0A1.99 1.99 0 1 0 68.13 0Z" fill="#0b0f3a"/>
+<path d="M46.3 -25.67M48.29 -25.67A1.99 1.99 0 1 0 44.31 -25.67A1.99 1.99 0 1 0 48.29 -25.67Z" fill="#1f2bff"/>
+<path d="M66.14 0M68.13 0A1.99 1.99 0 1 0 64.15 0A1.99 1.99 0 1 0 68.13 0Z" fill="#0b0f3a"/>
+<path d="M76.06 -69.45M78.06 -69.45A1.99 1.99 0 1 0 74.07 -69.45A1.99 1.99 0 1 0 78.06 -69.45Z" fill="#0b0f3a"/>
+<path d="M46.3 -25.67M48.29 -25.67A1.99 1.99 0 1 0 44.31 -25.67A1.99 1.99 0 1 0 48.29 -25.67Z" fill="#1f2bff"/>
+<path d="M76.06 -69.45M78.06 -69.45A1.99 1.99 0 1 0 74.07 -69.45A1.99 1.99 0 1 0 78.06 -69.45Z" fill="#0b0f3a"/>
+<path d="M9.92 -69.45M11.91 -69.45A1.99 1.99 0 1 0 7.93 -69.45A1.99 1.99 0 1 0 11.91 -69.45Z" fill="#0b0f3a"/>
+<path d="M46.3 -25.67M48.29 -25.67A1.99 1.99 0 1 0 44.31 -25.67A1.99 1.99 0 1 0 48.29 -25.67Z" fill="#1f2bff"/>
+<path d="M9.92 -69.45M11.91 -69.45A1.99 1.99 0 1 0 7.93 -69.45A1.99 1.99 0 1 0 11.91 -69.45Z" fill="#0b0f3a"/>
+<path d="M0 0M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<path d="M46.3 -25.67M48.29 -25.67A1.99 1.99 0 1 0 44.31 -25.67A1.99 1.99 0 1 0 48.29 -25.67Z" fill="#1f2bff"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="end"><tspan x="-3.54" y="10.77">o</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="start"><tspan x="48.51" y="-16.23">b</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="start"><tspan x="80.93" y="-65.84">c</tspan></text>
+</svg>

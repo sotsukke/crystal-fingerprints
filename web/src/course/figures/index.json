@@ -1,0 +1,429 @@
+[
+  {
+    "id": "0.2-lattice",
+    "file": "0.2-lattice.svg",
+    "caption": "",
+    "group": "g01",
+    "section": "0.2",
+    "layout": "box"
+  },
+  {
+    "id": "0.3-another-basis",
+    "file": "0.3-another-basis.svg",
+    "caption": "another basis",
+    "group": "g02",
+    "section": "0.3",
+    "layout": "compare"
+  },
+  {
+    "id": "0.3-a-shifted-origin",
+    "file": "0.3-a-shifted-origin.svg",
+    "caption": "a shifted origin",
+    "group": "g02",
+    "section": "0.3",
+    "layout": "compare"
+  },
+  {
+    "id": "0.3-a-cell-twice-as",
+    "file": "0.3-a-cell-twice-as.svg",
+    "caption": "a unit cell twice as large",
+    "group": "g02",
+    "section": "0.3",
+    "layout": "compare"
+  },
+  {
+    "id": "0.4-a-point-at-each",
+    "file": "0.4-a-point-at-each.svg",
+    "caption": "squares with centre points",
+    "group": "g03",
+    "section": "0.4",
+    "layout": "compare"
+  },
+  {
+    "id": "0.4-the-centre-points-nudged",
+    "file": "0.4-the-centre-points-nudged.svg",
+    "caption": "the centre points nudged",
+    "group": "g03",
+    "section": "0.4",
+    "layout": "compare"
+  },
+  {
+    "id": "1.1-a-periodic-set",
+    "file": "1.1-a-periodic-set.svg",
+    "caption": "a periodic set",
+    "group": "g04",
+    "section": "1.1",
+    "layout": "compare"
+  },
+  {
+    "id": "1.1-the-same-set-turned",
+    "file": "1.1-the-same-set-turned.svg",
+    "caption": "turned and shifted",
+    "group": "g04",
+    "section": "1.1",
+    "layout": "compare"
+  },
+  {
+    "id": "1.3-closed-ball",
+    "file": "1.3-closed-ball.svg",
+    "caption": "closed ball",
+    "group": "g05",
+    "section": "1.3",
+    "layout": "box"
+  },
+  {
+    "id": "1.3-packing-radius",
+    "file": "1.3-packing-radius.svg",
+    "caption": "packing radius r",
+    "group": "g05b",
+    "section": "1.3",
+    "layout": "compare"
+  },
+  {
+    "id": "1.3-covering-radius",
+    "file": "1.3-covering-radius.svg",
+    "caption": "covering radius R",
+    "group": "g05b",
+    "section": "1.3",
+    "layout": "compare"
+  },
+  {
+    "id": "1.4-t-0.35-3-balls",
+    "file": "1.4-t-0.35-3-balls.svg",
+    "caption": "t = 0.35: 3 miss",
+    "group": "g06",
+    "section": "1.4",
+    "layout": "compare"
+  },
+  {
+    "id": "1.4-t-0.71-every-ball",
+    "file": "1.4-t-0.71-every-ball.svg",
+    "caption": "t = 0.71: none miss",
+    "group": "g06",
+    "section": "1.4",
+    "layout": "compare"
+  },
+  {
+    "id": "1.4-balls-of-radius-0.71",
+    "file": "1.4-balls-of-radius-0.71.svg",
+    "caption": "around the points",
+    "group": "g06",
+    "section": "1.4",
+    "layout": "compare"
+  },
+  {
+    "id": "1.6-the-density-functions-of",
+    "file": "1.6-the-density-functions-of.svg",
+    "caption": "The density functions of the square lattice",
+    "group": "g08",
+    "section": "1.6",
+    "layout": "fig"
+  },
+  {
+    "id": "2.1-t-0.80-the-3rd",
+    "file": "2.1-t-0.80-the-3rd.svg",
+    "caption": "t = 0.80: the 3rd nearest point is outside, count 2",
+    "group": "g09",
+    "section": "2.1",
+    "layout": "compare"
+  },
+  {
+    "id": "2.1-t-0.85-the-3rd",
+    "file": "2.1-t-0.85-the-3rd.svg",
+    "caption": "t = 0.85: the 3rd nearest point is on the rim, count 3",
+    "group": "g09",
+    "section": "2.1",
+    "layout": "compare"
+  },
+  {
+    "id": "2.3-nearer-to-q",
+    "file": "2.3-nearer-to-q.svg",
+    "caption": "",
+    "group": "g10",
+    "section": "2.3",
+    "layout": "beside"
+  },
+  {
+    "id": "2.3-zone-3-of-p",
+    "file": "2.3-zone-3-of-p.svg",
+    "caption": "",
+    "group": "g10",
+    "section": "2.3",
+    "layout": "beside"
+  },
+  {
+    "id": "2.5-zone-of-p",
+    "file": "2.5-zone-of-p.svg",
+    "caption": "zone 10 of p",
+    "group": "g11",
+    "section": "2.5",
+    "layout": "compare"
+  },
+  {
+    "id": "2.5-tiling",
+    "file": "2.5-tiling.svg",
+    "caption": "zone 10 of every point, q in grey",
+    "group": "g11",
+    "section": "2.5",
+    "layout": "compare"
+  },
+  {
+    "id": "2.6-zone-3-of-p",
+    "file": "2.6-zone-3-of-p.svg",
+    "caption": "zone 3 of p = (0,0)",
+    "group": "g12",
+    "section": "2.6",
+    "layout": "compare"
+  },
+  {
+    "id": "2.6-zone-3-of-q",
+    "file": "2.6-zone-3-of-q.svg",
+    "caption": "zone 3 of q = (½,¼)",
+    "group": "g12",
+    "section": "2.6",
+    "layout": "compare"
+  },
+  {
+    "id": "2.6-both-slid-into-one",
+    "file": "2.6-both-slid-into-one.svg",
+    "caption": "both, slid into one cell",
+    "group": "g12",
+    "section": "2.6",
+    "layout": "compare"
+  },
+  {
+    "id": "2.7-ball-b-p-t",
+    "file": "2.7-ball-b-p-t.svg",
+    "caption": "",
+    "group": "g13",
+    "section": "2.7",
+    "layout": "beside"
+  },
+  {
+    "id": "2.9-at-least-twice-0.82",
+    "file": "2.9-at-least-twice-0.82.svg",
+    "caption": "at least twice: 0.82",
+    "group": "g14",
+    "section": "2.9",
+    "layout": "compare",
+    "groupCaption": "t = 0.8"
+  },
+  {
+    "id": "2.9-at-least-three-times",
+    "file": "2.9-at-least-three-times.svg",
+    "caption": "at least three times: 0.15",
+    "group": "g14",
+    "section": "2.9",
+    "layout": "compare",
+    "groupCaption": "t = 0.8"
+  },
+  {
+    "id": "2.9-exactly-twice-0.67",
+    "file": "2.9-exactly-twice-0.67.svg",
+    "caption": "exactly twice: 0.67",
+    "group": "g14",
+    "section": "2.9",
+    "layout": "compare",
+    "groupCaption": "t = 0.8"
+  },
+  {
+    "id": "2.11-the-points-within-2t",
+    "file": "2.11-the-points-within-2t.svg",
+    "caption": "",
+    "group": "g15",
+    "section": "2.11",
+    "layout": "beside"
+  },
+  {
+    "id": "2.12-a-walk-from-p",
+    "file": "2.12-a-walk-from-p.svg",
+    "caption": "",
+    "group": "g16",
+    "section": "2.12",
+    "layout": "beside"
+  },
+  {
+    "id": "2.13-zones-1-to-2-in-the-ball",
+    "file": "2.13-zones-1-to-2-in-the-ball.svg",
+    "caption": "zones 1 to 2 in the ball",
+    "group": "g16b",
+    "section": "2.13",
+    "layout": "compare"
+  },
+  {
+    "id": "2.13-one-bisector",
+    "file": "2.13-one-bisector.svg",
+    "caption": "one bisector, cos θ = h/t",
+    "group": "g16b",
+    "section": "2.13",
+    "layout": "compare"
+  },
+  {
+    "id": "2.14-zone-1-in-the-ball",
+    "file": "2.14-zone-1-in-the-ball.svg",
+    "caption": "zone 1 in the ball",
+    "group": "g16c",
+    "section": "2.14",
+    "layout": "compare"
+  },
+  {
+    "id": "2.14-zone-2-in-the-ball",
+    "file": "2.14-zone-2-in-the-ball.svg",
+    "caption": "zone 2 in the ball",
+    "group": "g16c",
+    "section": "2.14",
+    "layout": "compare"
+  },
+  {
+    "id": "2.15-1-points-within-2t",
+    "file": "2.15-1-points-within-2t.svg",
+    "caption": "1. the points within 2t, t = 0.85",
+    "group": "g17",
+    "section": "2.15",
+    "layout": "trace"
+  },
+  {
+    "id": "2.15-2-their-bisectors",
+    "file": "2.15-2-their-bisectors.svg",
+    "caption": "2. their bisectors",
+    "group": "g17",
+    "section": "2.15",
+    "layout": "trace"
+  },
+  {
+    "id": "2.15-3-wedges",
+    "file": "2.15-3-wedges.svg",
+    "caption": "3. the wedges",
+    "group": "g17",
+    "section": "2.15",
+    "layout": "trace"
+  },
+  {
+    "id": "2.15-4-zone-2-in-the-ball",
+    "file": "2.15-4-zone-2-in-the-ball.svg",
+    "caption": "4. zone 2 in the ball",
+    "group": "g17",
+    "section": "2.15",
+    "layout": "trace"
+  },
+  {
+    "id": "2.15-5-phi2",
+    "file": "2.15-5-phi2.svg",
+    "caption": "5. φ₂",
+    "group": "g17",
+    "section": "2.15",
+    "layout": "trace"
+  },
+  {
+    "id": "3.2-each-point-with-its",
+    "file": "3.2-each-point-with-its.svg",
+    "caption": "each point with its moved copy: longest arrow 0.07",
+    "group": "g19",
+    "section": "3.2",
+    "layout": "compare"
+  },
+  {
+    "id": "3.2-another-pairing-longest-arrow",
+    "file": "3.2-another-pairing-longest-arrow.svg",
+    "caption": "another pairing: longest arrow 0.62",
+    "group": "g19",
+    "section": "3.2",
+    "layout": "compare"
+  },
+  {
+    "id": "3.4-solid-the-exercise-crystal",
+    "file": "3.4-solid-the-exercise-crystal.svg",
+    "caption": "",
+    "group": "g20",
+    "section": "3.4",
+    "layout": "fig"
+  },
+  {
+    "id": "3.6-ball-before",
+    "file": "3.6-ball-before.svg",
+    "caption": "",
+    "group": "g21",
+    "section": "3.6",
+    "layout": "fig"
+  },
+  {
+    "id": "3.8-t-0.24-two-balls",
+    "file": "3.8-t-0.24-two-balls.svg",
+    "caption": "t = 0.24: two balls just touch",
+    "group": "g22",
+    "section": "3.8",
+    "layout": "compare"
+  },
+  {
+    "id": "3.8-t-0.52-three-balls",
+    "file": "3.8-t-0.52-three-balls.svg",
+    "caption": "t = 0.52: three balls just meet in one spot",
+    "group": "g22",
+    "section": "3.8",
+    "layout": "compare"
+  },
+  {
+    "id": "3.8-two-balls-touch-0.24",
+    "file": "3.8-two-balls-touch-0.24.svg",
+    "caption": "",
+    "group": "g23",
+    "section": "3.8",
+    "layout": "fig"
+  },
+  {
+    "id": "3.9-part-of-the-list",
+    "file": "3.9-part-of-the-list.svg",
+    "caption": "part of the list of radii",
+    "group": "g24",
+    "section": "3.9",
+    "layout": "trace"
+  },
+  {
+    "id": "3.9-triangles-whose-circumradius-is",
+    "file": "3.9-triangles-whose-circumradius-is.svg",
+    "caption": "triangles whose circumradius is on the list",
+    "group": "g24",
+    "section": "3.9",
+    "layout": "trace"
+  },
+  {
+    "id": "3.9-glued-edge-to-edge",
+    "file": "3.9-glued-edge-to-edge.svg",
+    "caption": "glued edge to edge: one cell",
+    "group": "g24",
+    "section": "3.9",
+    "layout": "trace"
+  },
+  {
+    "id": "3.10-ob-bc-0.80-the",
+    "file": "3.10-ob-bc-0.80-the.svg",
+    "caption": "|ob| = |bc| = 0.80; the shaded triangle glued along ob",
+    "group": "g25",
+    "section": "3.10",
+    "layout": "compare"
+  },
+  {
+    "id": "3.10-the-same-triangle-glued",
+    "file": "3.10-the-same-triangle-glued.svg",
+    "caption": "the same triangle glued along bc: it fits too",
+    "group": "g25",
+    "section": "3.10",
+    "layout": "compare"
+  },
+  {
+    "id": "3.12-a-0-1-3",
+    "file": "3.12-a-0-1-3.svg",
+    "caption": "",
+    "group": "g26",
+    "section": "3.12",
+    "layout": "fig"
+  },
+  {
+    "id": "3.12-their-density-functions-coincide",
+    "file": "3.12-their-density-functions-coincide.svg",
+    "caption": "Their density functions coincide",
+    "group": "g27",
+    "section": "3.12",
+    "layout": "fig"
+  }
+]

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222.23" height="207.42" viewBox="-111.12 -103.71 222.23 207.42" font-family="'Geist Mono', ui-monospace, monospace">
+<defs>
+<clipPath id="212awalkfromp-c"><rect x="-111.12" y="-103.71" width="222.23" height="207.42"/></clipPath>
+</defs>
+<g clip-path="url(#212awalkfromp-c)">
+<path d="M50.93 -28.16L-15.74 -56.02L-50.93 -28.16L-50.93 28.16L15.74 56.02L50.93 28.16Z" fill="#e3e4f7" fill-rule="evenodd"/>
+<path d="M91.79 -4.21L86.11 -13.45L50.93 -28.16L50.93 -70.73L45.25 -79.97L25.12 -88.39L-15.74 -56.02L-50.93 -70.73L-50.93 -28.16L-91.79 4.21L-86.11 13.45L-50.93 28.16L-50.93 70.73L-45.25 79.97L-25.12 88.39L15.74 56.02L50.93 70.73L50.93 28.16ZM50.93 -28.16L-15.74 -56.02L-50.93 -28.16L-50.93 28.16L15.74 56.02L50.93 28.16Z" fill="#c4c6f5" fill-rule="evenodd"/>
+<path d="M91.79 -4.21L97.47 -8.7L86.11 -13.45L50.93 -70.73L50.93 -77.6L45.25 -79.97L36.65 -93.98L30.8 -92.88L25.12 -88.39L19.45 -90.76L-50.93 -77.6L-50.93 -70.73L-62.28 -75.48L-68.13 -74.38L-100.39 -9.8L-91.79 4.21L-97.47 8.7L-86.11 13.45L-50.93 70.73L-50.93 77.6L-45.25 79.97L-36.65 93.98L-30.8 92.88L-25.12 88.39L-19.45 90.76L50.93 77.6L50.93 70.73L62.28 75.48L68.13 74.38L100.39 9.8ZM91.79 -4.21L86.11 -13.45L50.93 -28.16L50.93 -70.73L45.25 -79.97L25.12 -88.39L-15.74 -56.02L-50.93 -70.73L-50.93 -28.16L-91.79 4.21L-86.11 13.45L-50.93 28.16L-50.93 70.73L-45.25 79.97L-25.12 88.39L15.74 56.02L50.93 70.73L50.93 28.16Z" fill="#898ff9" fill-rule="evenodd"/>
+<path d="M-101.86 -103.71L-101.86 103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-53.48 -103.71L-111.12 11.67" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-42.01 -103.71L-111.12 -48.98" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-111.12 -27.25L-30.67 103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-50.93 -103.71L-50.93 103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M44.47 -103.71L-111.12 19.51" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M88.69 -103.71L-111.12 -66.34" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-111.12 52.44L11.53 103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-111.12 3L111.12 95.89" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M111.12 -3L-111.12 -95.89" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M111.12 -52.44L-11.53 -103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-88.69 103.71L111.12 66.34" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M-44.47 103.71L111.12 -19.51" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M50.93 103.71L50.93 -103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M111.12 27.25L30.67 -103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M42.01 103.71L111.12 48.98" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M53.48 103.71L111.12 -11.67" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M101.86 103.71L101.86 -103.71" fill="none" stroke="#a7aab3" stroke-width="0.6"/>
+<path d="M0 0L99.34 11.9" stroke="#1f2bff" stroke-width="1.33" stroke-linecap="round"/>
+<path d="M52.53 6.1A1.6 1.6 0 1 0 49.33 6.1A1.6 1.6 0 1 0 52.53 6.1Z" fill="#1f2bff"/>
+<path d="M76.72 9A1.6 1.6 0 1 0 73.52 9A1.6 1.6 0 1 0 76.72 9Z" fill="#1f2bff"/>
+<path d="M100.94 11.9A1.6 1.6 0 1 0 97.74 11.9A1.6 1.6 0 1 0 100.94 11.9Z" fill="#1f2bff"/>
+<path d="M-99.87 0A1.99 1.99 0 1 0 -103.85 0A1.99 1.99 0 1 0 -99.87 0Z" fill="#0b0f3a"/>
+<path d="M-64.68 -84.18A1.99 1.99 0 1 0 -68.66 -84.18A1.99 1.99 0 1 0 -64.68 -84.18Z" fill="#0b0f3a"/>
+<path d="M-33.2 84.18A1.99 1.99 0 1 0 -37.18 84.18A1.99 1.99 0 1 0 -33.2 84.18Z" fill="#0b0f3a"/>
+<path d="M37.18 -84.18A1.99 1.99 0 1 0 33.2 -84.18A1.99 1.99 0 1 0 37.18 -84.18Z" fill="#0b0f3a"/>
+<path d="M68.66 84.18A1.99 1.99 0 1 0 64.68 84.18A1.99 1.99 0 1 0 68.66 84.18Z" fill="#0b0f3a"/>
+<path d="M103.85 0A1.99 1.99 0 1 0 99.87 0A1.99 1.99 0 1 0 103.85 0Z" fill="#0b0f3a"/>
+<path d="M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-8" y="13">p</tspan></text>
+<text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="24.25" y="17.16">1</tspan></text>
+<text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="61.81" y="21.66">2</tspan></text>
+<text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="86.02" y="24.56">3</tspan></text>
+</g>
+
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="175.4" height="129.1" viewBox="-19.9 -105.9 175.4 129.1" font-family="'Geist Mono', ui-monospace, monospace">
+<defs>
+<clipPath id="11aperiodicset-c1"><path d="M-19.84 23.15L155.43 23.15L155.43 -105.83L-19.84 -105.83Z"/></clipPath>
+</defs>
+<g clip-path="url(#11aperiodicset-c1)"><path d="M-2.65 -30.43M-0.65 -30.43A1.99 1.99 0 1 0 -4.64 -30.43A1.99 1.99 0 1 0 -0.65 -30.43Z" fill="#0b0f3a"/>
+<path d="M23.81 -89.95M25.8 -89.95A1.99 1.99 0 1 0 21.82 -89.95A1.99 1.99 0 1 0 25.8 -89.95Z" fill="#0b0f3a"/>
+<path d="M19.84 -6.61M21.84 -6.61A1.99 1.99 0 1 0 17.85 -6.61A1.99 1.99 0 1 0 21.84 -6.61Z" fill="#0b0f3a"/>
+<path d="M63.5 -30.43M65.49 -30.43A1.99 1.99 0 1 0 61.5 -30.43A1.99 1.99 0 1 0 65.49 -30.43Z" fill="#0b0f3a"/>
+<path d="M46.3 -66.14M48.29 -66.14A1.99 1.99 0 1 0 44.31 -66.14A1.99 1.99 0 1 0 48.29 -66.14Z" fill="#0b0f3a"/>
+<path d="M89.95 -89.95M91.95 -89.95A1.99 1.99 0 1 0 87.96 -89.95A1.99 1.99 0 1 0 91.95 -89.95Z" fill="#0b0f3a"/>
+<path d="M85.98 -6.61M87.98 -6.61A1.99 1.99 0 1 0 83.99 -6.61A1.99 1.99 0 1 0 87.98 -6.61Z" fill="#0b0f3a"/>
+<path d="M129.64 -30.43M131.63 -30.43A1.99 1.99 0 1 0 127.65 -30.43A1.99 1.99 0 1 0 131.63 -30.43Z" fill="#0b0f3a"/>
+<path d="M112.44 -66.14M114.43 -66.14A1.99 1.99 0 1 0 110.45 -66.14A1.99 1.99 0 1 0 114.43 -66.14Z" fill="#0b0f3a"/>
+<path d="M152.13 -6.61M154.12 -6.61A1.99 1.99 0 1 0 150.13 -6.61A1.99 1.99 0 1 0 154.12 -6.61Z" fill="#0b0f3a"/>
+<path d="M63.5 -30.43L85.98 -6.61" fill="none" stroke="#1f2bff" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="68.26" y="-24.36" width="12.96" height="11.69" fill="#f2f2f2"/><text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="74.74" y="-16.08">d<tspan dy="3.19" font-size="70%">1</tspan></tspan></text>
+<path d="M63.5 -30.43L46.3 -66.14" fill="none" stroke="#1f2bff" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="48.42" y="-54.13" width="12.96" height="11.69" fill="#f2f2f2"/><text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="54.9" y="-45.84">d<tspan dy="3.19" font-size="70%">2</tspan></tspan></text>
+<path d="M19.84 -6.61L63.5 -30.43" fill="none" stroke="#1f2bff" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="35.19" y="-24.36" width="12.96" height="11.69" fill="#f2f2f2"/><text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="41.67" y="-16.08">d<tspan dy="3.19" font-size="70%">3</tspan></tspan></text></g>
+</svg>

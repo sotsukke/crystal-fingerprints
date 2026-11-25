@@ -1,0 +1,37 @@
+> This page is a generated summary of an automatically maintained journal. The AI appends an entry to `ai-journal.md` after every significant step, and Claude Code wrote this summary from it on 25 Nov 2026.
+
+This project computes the density fingerprint Ψ of 2D crystals, exactly, in a browser applet. I used Grok Bot for the proposal, on Grok 4.6 because I had disabled Grok 4.7. Then I used Claude Code on Claude Opus 5.5 for everything after it, with my own skills for learning the content at the start and pstack for the coding. Wintermute, my project bot, wrote the briefs and reviewed the runs. AI did most of the drafting, the code and the literature work. My part was the direction, the scope, the checking, and the course text.
+
+## What was done
+
+- **The proposal (v4, 22 Oct).** An exact 2D fingerprint, extended to crystals with vacancies.
+- **The applet.** Exact ψₖ by an angular sweep over Brillouin zones, with a playground where you drag the basis and the points.
+- **The course.** A web version of my own reference course on density fingerprints.
+- **A follow-up course on expected fingerprints.** My raphael2 course-writing skill stack wrote it. I tuned that stack by evaluating it against my reference course: the evaluations ran on their own, and I directed the changes to the stack after each round. I did not write or edit this course myself, and I have not been able to understand all of it yet.
+- **Research runs (30 Oct to 2 Nov).** Claude Code ran these on Wintermute's briefs. Most of the results sit on unmerged branches, and these are not part of the assignment:
+  - Stage 2 of the vacancy fingerprint re-derived, with Lean proofs of Stage 1, the 2D candidate box and the positivity of E ψ₀ (merged);
+  - one thinning theorem in Lean from which Stage 1 and Stage 2 both follow, with a bound on how unstable the inversion is;
+  - 2D results on recovering the occupancy and on continuity of the expected fingerprint, which touch a question the project treats as open and are not claimed;
+  - N1, a Minkowski-reduced 3D basis whose Voronoi cell leaves the box 2U, which contradicts published claims (Hart et al., and Smith and Kurlin's Lemmas 14 and 16 for n = 3), certified in Lean;
+  - a sharp 9/8 box in 3D and a repair of Smith and Kurlin's Lemma 14 for k ≥ 2, as AI-only proofs;
+  - an audit of neighbour-list libraries, where five minimum-image functions (ASE, pymatgen, matscipy, torchmd-net) return a non-minimal image on such cells, not reported upstream.
+
+I ran these because the half-lecture on the OpenAI proofs made me want to see what is possible here. I left them out of the assignment because I have not yet had the time to understand all of them myself. The 9/8 box, the Lemma 14 repair and the proofs behind the neighbour search are drafted and checked only by AI. I intend to keep working on them out of interest.
+
+## How the work was split
+
+**Literature and proposal.** The assistant surveyed the field and drafted the proposal. I dropped a planned direction that Smith and Kurlin had already solved for point sets. I rejected a lattice-completeness extension, chose the vacancy fingerprint as the extension, and trimmed the proposal and lightened its tone.
+
+**The applet.** Claude Code wrote the code. I chose the layout, cut the site down to the applet, had it rebuilt from scratch, and found bugs and lag in use. Two fixes came from my ideas: changing the basis when a point is dragged out of the cell, and drawing the periodic layers from one repeated cell.
+
+**The course.** I wrote the course text myself, as the reference course for tuning my raphael2 course-writing skill. Claude ported it to the web page, turned its TikZ figures into SVGs, and built the interactive figures. It also edited passages under my direction. I rejected drafts that over-explained or used a misleading example, rewrote some passages myself, and built section 2 around one running goal, ψ₂, in a short spoken voice.
+
+**Verification.** The rule was to check every literature claim against its theorem and page. The vacancy formulas were tested against Monte Carlo, the Lean proofs use only the standard axioms, and the applet tests reproduce the course's numbers. AI checks and Wintermute's reviews caught most of the math errors, not me.
+
+## Significant prompts
+
+- **Direction B (22 Oct).** *Prompt:* after the professor's comment, find Smith and Kurlin's ISVC 2022 paper and compare Direction B with its Lemma 14 and Theorem 17, claim by claim. *Response:* Direction B is already solved there for point sets (Lemma 14, p. 9; Thm 17, p. 11). I dropped it.
+- **State of the art (22 Oct).** *Prompt:* survey 2021–2026 on completeness of density functions, algorithms for them, and Brillouin zones. *Response:* completeness in 2D and above is open. My own "preliminary result" on 2D lifts was already in Smith's thesis (Ex. 3.15, p. 45), so I cite it rather than claim it. It also proposed "ψ₀ is complete for 2D lattices", which I rejected.
+- **The extension (22 Oct).** *Prompt:* propose two or three extensions motivated by Matlantis that stay provably correct computational geometry. *Response:* an expected fingerprint for vacancies, a displacement lower bound, and filter-and-refine deduplication. Its own toy test showed the lower bound was weaker than AMD's. I chose the expected fingerprint.
+- **The applet (24 Nov).** *Prompt:* redo the web demo from scratch with a sidebar, a playground where you drag the basis and the points, and my reference course as the didactic page. *Response:* a Vite + React applet with an angular sweep for ψₖ. Its tests reproduce the numbers printed in my course.
+- **Section 2 of the course (25 Nov).** *Prompt:* the explanation of how ψ is computed has holes, and patching it question by question makes it worse, so rework it by the raphael2 principles, with you as judge. *Response:* the section was rebuilt as one story around ψ₂. The agent also found a bug where every Brillouin drawing lost a zone corner.

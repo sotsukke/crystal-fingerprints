@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.6" height="106.6" viewBox="-53.3 -53.3 106.6 106.6" font-family="'Geist Mono', ui-monospace, monospace">
+<path d="M0 0M52.91 0A52.91 52.91 0 1 0 -52.91 0A52.91 52.91 0 1 0 52.91 0Z" fill="none" stroke="#1f2bff" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0 0L49.33 0" fill="none" stroke="#a7aab3" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/><path d="M52.91 0L47.6 -1.99L49.33 0L47.6 1.99Z" fill="#a7aab3"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="26.46" y="-3.54">t</tspan></text>
+<path d="M0 0M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="0" y="12.1">p</tspan></text>
+</svg>

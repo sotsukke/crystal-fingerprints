@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231.2" height="199.7" viewBox="-102.6 -97.6 231.2 199.7" font-family="'Geist Mono', ui-monospace, monospace">
+<path d="M0 0M66.14 0A66.14 66.14 0 1 0 -66.14 0A66.14 66.14 0 1 0 66.14 0ZM21.17 0M87.31 0A66.14 66.14 0 1 0 -44.98 0A66.14 66.14 0 1 0 87.31 0Z" fill="#a2a6f7" fill-rule="evenodd"/>
+<path d="M0 0M66.14 0A66.14 66.14 0 1 0 -66.14 0A66.14 66.14 0 1 0 66.14 0Z" fill="none" stroke="#0b0f3a" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.17 0M87.31 0A66.14 66.14 0 1 0 -44.98 0A66.14 66.14 0 1 0 87.31 0Z" fill="none" stroke="#1f2bff" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3.99 1.99"/>
+<path d="M10.58 0M66.14 0A55.56 55.56 0 1 0 -44.98 0A55.56 55.56 0 1 0 66.14 0Z" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.33 1.99"/>
+<path d="M10.58 0M87.31 0A76.72 76.72 0 1 0 -66.14 0A76.72 76.72 0 1 0 87.31 0Z" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.33 1.99"/>
+<path d="M0 0M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<path d="M21.17 0M23.16 0A1.99 1.99 0 1 0 19.17 0A1.99 1.99 0 1 0 23.16 0Z" fill="#1f2bff"/>
+<path d="M0 0L18.03 0" fill="none" stroke="#0b0f3a" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M21.17 0L16.52 -1.74L18.03 0L16.52 1.74Z" fill="#0b0f3a"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="10.58" y="12.1">δ</tspan></text>
+<path d="M0 0L-37.8 -50.4" fill="none" stroke="#a7aab3" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/><path d="M-39.69 -52.91L-38.29 -48.15L-37.8 -50.4L-35.5 -50.24Z" fill="#a7aab3"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="end"><tspan x="-22.06" y="-28.67">t</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-66.14" y="-88.99">ball before</tspan></text>
+<path d="M-66.14 -87.66L-46.96 -46.96" fill="none" stroke="#a7aab3" stroke-width="0.53" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-size="10.63" fill="#1f2bff" text-anchor="middle"><tspan x="85.98" y="-88.99">ball after</tspan></text>
+<path d="M85.98 -87.66L68.13 -46.96" fill="none" stroke="#a7aab3" stroke-width="0.53" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-66.14" y="99.52">crescent</tspan></text>
+<path d="M-66.14 90.96L-55.56 0" fill="none" stroke="#a7aab3" stroke-width="0.53" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="79.37" y="98.35">ring of width δ</tspan></text>
+<path d="M79.37 89.8L64.82 54.24" fill="none" stroke="#a7aab3" stroke-width="0.53" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

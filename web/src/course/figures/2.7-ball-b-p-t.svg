@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187.4" height="203" viewBox="-86.1 -102.1 187.4 203" font-family="'Geist Mono', ui-monospace, monospace">
+<defs>
+<clipPath id="27ballbpt-c1"><path d="M-79.37 79.37L79.37 79.37L79.37 -79.37L-79.37 -79.37Z"/></clipPath>
+<clipPath id="27ballbpt-c2"><path d="M0 0M39.69 0A39.69 39.69 0 1 0 -39.69 0A39.69 39.69 0 1 0 39.69 0Z"/></clipPath>
+</defs>
+<g clip-path="url(#27ballbpt-c1)"><path d="M33.07 -33.07L33.07 33.07L66.14 0Z" fill="#c4c6f5" stroke="#c4c6f5" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0 -66.14L-33.07 -33.07L33.07 -33.07Z" fill="#c4c6f5" stroke="#c4c6f5" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.07 33.07L-33.07 33.07L0 66.14Z" fill="#c4c6f5" stroke="#c4c6f5" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-66.14 0L-33.07 33.07L-33.07 -33.07Z" fill="#c4c6f5" stroke="#c4c6f5" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<g clip-path="url(#27ballbpt-c2)"><path d="M33.07 -33.07L33.07 33.07L66.14 0Z" fill="#898ff9" stroke="#898ff9" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0 -66.14L-33.07 -33.07L33.07 -33.07Z" fill="#898ff9" stroke="#898ff9" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.07 33.07L-33.07 33.07L0 66.14Z" fill="#898ff9" stroke="#898ff9" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-66.14 0L-33.07 33.07L-33.07 -33.07Z" fill="#898ff9" stroke="#898ff9" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M0 0M39.69 0A39.69 39.69 0 1 0 -39.69 0A39.69 39.69 0 1 0 39.69 0Z" fill="none" stroke="#1f2bff" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M0 0L-21.93 -29.24" fill="none" stroke="#a7aab3" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/><path d="M-23.81 -31.75L-22.42 -26.98L-21.93 -29.24L-19.63 -29.07Z" fill="#a7aab3"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="end"><tspan x="-14.65" y="-19.01">t</tspan></text>
+<path d="M-66.14 66.14M-64.15 66.14A1.99 1.99 0 1 0 -68.13 66.14A1.99 1.99 0 1 0 -64.15 66.14Z" fill="#0b0f3a"/>
+<path d="M-66.14 0M-64.15 0A1.99 1.99 0 1 0 -68.13 0A1.99 1.99 0 1 0 -64.15 0Z" fill="#0b0f3a"/>
+<path d="M-66.14 -66.14M-64.15 -66.14A1.99 1.99 0 1 0 -68.13 -66.14A1.99 1.99 0 1 0 -64.15 -66.14Z" fill="#0b0f3a"/>
+<path d="M0 66.14M1.99 66.14A1.99 1.99 0 1 0 -1.99 66.14A1.99 1.99 0 1 0 1.99 66.14Z" fill="#0b0f3a"/>
+<path d="M0 0M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<path d="M0 -66.14M1.99 -66.14A1.99 1.99 0 1 0 -1.99 -66.14A1.99 1.99 0 1 0 1.99 -66.14Z" fill="#0b0f3a"/>
+<path d="M66.14 66.14M68.13 66.14A1.99 1.99 0 1 0 64.15 66.14A1.99 1.99 0 1 0 68.13 66.14Z" fill="#0b0f3a"/>
+<path d="M66.14 0M68.13 0A1.99 1.99 0 1 0 64.15 0A1.99 1.99 0 1 0 68.13 0Z" fill="#0b0f3a"/>
+<path d="M66.14 -66.14M68.13 -66.14A1.99 1.99 0 1 0 64.15 -66.14A1.99 1.99 0 1 0 68.13 -66.14Z" fill="#0b0f3a"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="0" y="12.1">p</tspan></text></g>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-49.61" y="-93.46">ball B(p,t)</tspan></text>
+<path d="M-49.61 -89.8L-34.39 -19.84" fill="none" stroke="#a7aab3" stroke-width="0.53" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="56.22" y="-92.29">zone 2</tspan></text>
+<path d="M56.22 -90.96L56.22 -3.31" fill="none" stroke="#a7aab3" stroke-width="0.53" stroke-linecap="round" stroke-linejoin="round"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="29.76" y="99.52">covered at least twice</tspan></text>
+<path d="M29.76 90.96L36.38 1.32" fill="none" stroke="#a7aab3" stroke-width="0.53" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

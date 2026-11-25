@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="271.17" height="257.95" viewBox="-135.59 -128.97 271.17 257.95" font-family="'Geist Mono', ui-monospace, monospace">
+<defs>
+<clipPath id="211thepointswithin2t-c"><rect x="-135.59" y="-128.97" width="271.17" height="257.95"/></clipPath>
+</defs>
+<g clip-path="url(#211thepointswithin2t-c)">
+<path d="M-72.75 -128.97L-72.75 128.97" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M-10.78 -128.97L-135.59 120.89" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M-135.59 -110.99L11.81 128.97" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M135.59 -87.58L-135.59 -36.88" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M-135.59 13.96L135.59 127.31" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M135.59 -13.96L-135.59 -127.31" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M-135.59 87.58L135.59 36.88" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M135.59 110.99L-11.81 -128.97" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M10.78 128.97L135.59 -120.89" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M72.75 128.97L72.75 -128.97" fill="none" stroke="#a7aab3" stroke-width="0.6" stroke-dasharray="2.66 1.59"/>
+<path d="M52.91 0A52.91 52.91 0 1 0 -52.91 0A52.91 52.91 0 1 0 52.91 0Z" fill="#d2d4f4" fill-opacity="0.7" stroke="#1f2bff" stroke-width="1"/>
+<path d="M-36.38 -128.97L-36.38 128.97" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M101.08 -128.97L-135.59 58.46" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M-135.59 -21.36L135.59 91.99" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M135.59 21.36L-135.59 -91.99" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M-101.08 128.97L135.59 -58.46" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M36.38 128.97L36.38 -128.97" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M105.82 0A105.82 105.82 0 1 0 -105.82 0A105.82 105.82 0 1 0 105.82 0Z" fill="none" stroke="#1f2bff" stroke-width="0.8" stroke-dasharray="2.66 1.99"/>
+<path d="M0 0L-31.14 -42.78" stroke="#1f2bff" stroke-width="0.8"/>
+<path d="M0 0L90.22 55.31" stroke="#1f2bff" stroke-width="0.8"/>
+<path d="M-118.38 -60.13A1.99 1.99 0 1 0 -122.36 -60.13A1.99 1.99 0 1 0 -118.38 -60.13Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M-93.25 -120.25A1.99 1.99 0 1 0 -97.23 -120.25A1.99 1.99 0 1 0 -93.25 -120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M-121.03 120.25A1.99 1.99 0 1 0 -125.01 120.25A1.99 1.99 0 1 0 -121.03 120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M-95.9 60.13A1.99 1.99 0 1 0 -99.88 60.13A1.99 1.99 0 1 0 -95.9 60.13Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M-20.5 -120.25A1.99 1.99 0 1 0 -24.48 -120.25A1.99 1.99 0 1 0 -20.5 -120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M-48.28 120.25A1.99 1.99 0 1 0 -52.26 120.25A1.99 1.99 0 1 0 -48.28 120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M52.26 -120.25A1.99 1.99 0 1 0 48.28 -120.25A1.99 1.99 0 1 0 52.26 -120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M24.48 120.25A1.99 1.99 0 1 0 20.5 120.25A1.99 1.99 0 1 0 24.48 120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M99.88 -60.13A1.99 1.99 0 1 0 95.9 -60.13A1.99 1.99 0 1 0 99.88 -60.13Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M125.01 -120.25A1.99 1.99 0 1 0 121.03 -120.25A1.99 1.99 0 1 0 125.01 -120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M97.23 120.25A1.99 1.99 0 1 0 93.25 120.25A1.99 1.99 0 1 0 97.23 120.25Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M122.36 60.13A1.99 1.99 0 1 0 118.38 60.13A1.99 1.99 0 1 0 122.36 60.13Z" fill="#f2f2f2" stroke="#0b0f3a" stroke-width="0.66"/>
+<path d="M-70.76 0A1.99 1.99 0 1 0 -74.74 0A1.99 1.99 0 1 0 -70.76 0Z" fill="#0b0f3a"/>
+<path d="M-45.63 -60.13A1.99 1.99 0 1 0 -49.61 -60.13A1.99 1.99 0 1 0 -45.63 -60.13Z" fill="#0b0f3a"/>
+<path d="M-23.14 60.13A1.99 1.99 0 1 0 -27.12 60.13A1.99 1.99 0 1 0 -23.14 60.13Z" fill="#0b0f3a"/>
+<path d="M27.12 -60.13A1.99 1.99 0 1 0 23.14 -60.13A1.99 1.99 0 1 0 27.12 -60.13Z" fill="#0b0f3a"/>
+<path d="M49.61 60.13A1.99 1.99 0 1 0 45.63 60.13A1.99 1.99 0 1 0 49.61 60.13Z" fill="#0b0f3a"/>
+<path d="M74.74 0A1.99 1.99 0 1 0 70.76 0A1.99 1.99 0 1 0 74.74 0Z" fill="#0b0f3a"/>
+<path d="M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="start"><tspan x="7" y="13">p</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-20.92" y="-13.5">t</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="69.45" y="36.5">2t</tspan></text>
+</g>
+
+</svg>

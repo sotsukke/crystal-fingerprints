@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="207.42" height="201.07" viewBox="-103.71 -100.53 207.42 201.07" font-family="'Geist Mono', ui-monospace, monospace">
+<defs>
+<clipPath id="213onebisector-c"><rect x="-103.71" y="-100.53" width="207.42" height="201.07"/></clipPath>
+</defs>
+<g clip-path="url(#213onebisector-c)">
+<path d="M0 0L27.04 -80.22A84.66 84.66 0 1 0 72.37 43.94Z" fill="#898ff9"/>
+<path d="M0 0L72.37 43.94L27.04 -80.22Z" fill="#c4c6f5"/>
+<path d="M122.28 180.67L-22.87 -216.96" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M0 0L72.37 43.94" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M0 0L27.04 -80.22" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M0 0L49.7 -18.14" stroke="#0b0f3a" stroke-width="0.8" stroke-dasharray="2 1.5"/>
+<path d="M19.88 -7.26A21.16 21.16 0 0 0 6.76 -20.06" fill="none" stroke="#0b0f3a" stroke-width="0.6"/>
+<path d="M84.66 0A84.66 84.66 0 1 0 -84.66 0A84.66 84.66 0 1 0 84.66 0Z" fill="none" stroke="#1f2bff" stroke-width="1"/>
+<path d="M73.97 43.94A1.6 1.6 0 1 0 70.77 43.94A1.6 1.6 0 1 0 73.97 43.94Z" fill="#1f2bff"/>
+<path d="M28.64 -80.22A1.6 1.6 0 1 0 25.44 -80.22A1.6 1.6 0 1 0 28.64 -80.22Z" fill="#1f2bff"/>
+<path d="M1.99 0A1.99 1.99 0 1 0 -1.99 0A1.99 1.99 0 1 0 1.99 0Z" fill="#0b0f3a"/>
+</g>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="end"><tspan x="-6" y="13">p</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="32" y="-0.92">h</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="20.69" y="-17.21">θ</tspan></text>
+<text font-size="10.63" fill="#0b0f3a" text-anchor="middle"><tspan x="-1.16" y="-42.55">t</tspan></text>
+</svg>

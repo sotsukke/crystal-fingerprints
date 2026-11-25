@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132.5" height="108.9" viewBox="-28.2 -95.8 132.5 108.9" font-family="'Geist Mono', ui-monospace, monospace">
+<path d="M0 9.92L66.14 9.92L46.3 -14.55Z" fill="#dddef3" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="23.11" y="6.81" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="33.07" y="12.63">1.00</tspan></text>
+<rect x="46.26" y="-5.42" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="56.22" y="0.39">0.48</tspan></text>
+<rect x="13.19" y="-5.42" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="23.15" y="0.39">0.79</tspan></text>
+<path d="M89.29 0L99.21 -69.45L69.45 -24.47Z" fill="#dddef3" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="84.29" y="-37.83" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="94.25" y="-32.01">1.06</tspan></text>
+<rect x="74.37" y="-50.07" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="84.33" y="-44.25">0.82</tspan></text>
+<rect x="69.41" y="-15.34" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="79.37" y="-9.53">0.48</tspan></text>
+<path d="M76.06 -92.6L9.92 -92.6L46.3 -47.62Z" fill="#dddef3" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="33.03" y="-95.71" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="42.99" y="-89.89">1.00</tspan></text>
+<rect x="18.15" y="-73.22" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="28.11" y="-67.4">0.87</tspan></text>
+<rect x="51.22" y="-73.22" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="61.18" y="-67.4">0.82</tspan></text>
+<path d="M-13.23 -69.45L-23.15 0L23.15 -24.47Z" fill="#dddef3" stroke="#0b0f3a" stroke-width="0.66" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-28.15" y="-37.83" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="-18.19" y="-32.01">1.06</tspan></text>
+<rect x="-9.96" y="-15.34" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="0" y="-9.53">0.79</tspan></text>
+<rect x="-5" y="-50.07" width="19.93" height="6.22" fill="#f2f2f2" fill-opacity="0.85"/><text font-size="7.97" fill="#4b4f68" text-anchor="middle"><tspan x="4.96" y="-44.25">0.87</tspan></text>
+</svg>
